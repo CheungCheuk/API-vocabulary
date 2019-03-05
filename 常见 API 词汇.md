@@ -1,6 +1,8 @@
+[TOC]
+
+
+
 ## 常见 API 词汇
-
-
 
 | 词汇             | 含义               |
 | ---------------- | ------------------ |
@@ -10,7 +12,7 @@
 | invoke           | 调用               |
 | call             | 调用               |
 | compose          | 组成               |
-| correspond       | 符合               |
+| correspond       | 符合、相关         |
 | trigger          | 触发               |
 | fire             | 触发               |
 | specify          | 指定               |
@@ -44,18 +46,48 @@
 | boilerplate      | 样板、引用文件     |
 | capture          | 捕获               |
 | integration      | 整合               |
-|                  |                    |
-|                  |                    |
-|                  |                    |
-|                  |                    |
+| verbose output   | 详细输出           |
+| schemaless       | 结构的             |
+| sniffing         | 嗅探               |
+| hence            | 因此               |
+| logical fashion  | 逻辑方式           |
+| clause           | 分句               |
+| instantiating    | 举例说明           |
+| mechanism        | 机制               |
+| exact            | 精确的             |
+| compatible       | 兼容的             |
+| customize        | 自定义             |
+| term             | 术语               |
+| arbitrarily      | 任意地             |
+| bracket          | 分类               |
+| theoretically    | 理论上             |
+| neck             | 瓶颈               |
+| outweigh         | 比重               |
+| failover         | 失败备援           |
+| load balance     | 负载均衡           |
 
 
 
 ## 符号
 
 
-| 单词 | 含义   | 符号 |
-| ---- | ------ | ---- |
-| dash | 破折号 | -    |
-| dot  | 点     | .    |
+| 单词     | 含义   | 符号           |
+| -------- | ------ | -------------- |
+| dash     | 破折号 | -              |
+| dot      | 点     | .              |
+| wildcard | 通配符 |                |
+| cursor   | 光标   |                |
+| bracket  | 括号   | `( )` 或 `[ ]` |
+
+
+
+## 连接词
+
+| 词汇         | 含义        |
+| ------------ | ----------- |
+| in ways that | 以...的方式 |
+|              |             |
+|              |             |
+|              |             |
+|              |             |
 
